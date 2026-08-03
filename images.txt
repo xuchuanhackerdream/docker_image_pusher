@@ -4,4 +4,13 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:8.0.33
+#mysql:8.0.33
+nacos:1.4.1
+rabbitmq:3.8.34
+redis:6.2.7
+xxl-job-admin:2.3.1
+minio:RELEASE.2022-09-07
+elasticsearch:7.12.1
+kibana:7.12.1
+gogs:0.13.0
+nginx:1.12.2
