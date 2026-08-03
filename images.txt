@@ -6,8 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:8.0.33
 #nacos/nacos-server:1.4.1
-rabbitmq:3.8.34-management
-#redis:6.2.7
+#rabbitmq:3.8.34-management
+redis:6.2.7
 #xxl-job-admin:2.3.1
 #minio:RELEASE.2022-09-07
 #elasticsearch:7.12.1
