@@ -12,5 +12,5 @@
 #minio/minio:RELEASE.2022-11-11T03-44-20Z
 #elasticsearch:7.12.1
 #kibana:7.12.1
-gogs:0.13.0
-#nginx:1.12.2
+#gogs:0.13.0
+nginx:1.12.2
