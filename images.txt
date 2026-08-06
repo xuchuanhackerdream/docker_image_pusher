@@ -15,5 +15,6 @@
 #gogs:0.13.0
 #nginx:1.12.2
 #redis:6.2.22
-elasticsearch:8.11.0
-kibana:8.11.0
+#elasticsearch:8.11.0
+#kibana:8.11.0
+registry:latest
