@@ -17,4 +17,4 @@
 #redis:6.2.22
 #elasticsearch:8.11.0
 #kibana:8.11.0
-registry:latest
+registry:3.1.1
